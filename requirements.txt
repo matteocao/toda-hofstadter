@@ -1,0 +1,13 @@
+numpy
+poetry
+jupyterlab
+pytest
+pytest-cov
+flake8
+mypy
+ipykernel
+nbconvert
+autopep8
+plotly
+pandas
+scipy
